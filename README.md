@@ -20,9 +20,10 @@
 
 ## 🧑‍💻 Sobre mí
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&color=00FFCC&center=true&vCenter=true&width=600&lines=Apasionado+por+el+desarrollo;Creo+soluciones+eficientes;Siempre+aprendiendo+nuevas+tecnologias"/>
-</p>
+💡 Apasionado por el desarrollo de software  
+🚀 Creo soluciones funcionales y eficientes  
+📚 Transformo teoría en aplicaciones reales  
+⚡ En constante aprendizaje  
 
 ---
 
@@ -59,28 +60,6 @@
 <img src="https://img.shields.io/badge/PSeInt-000000?style=for-the-badge&logo=code&logoColor=00ffcc"/>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ffcc"/>
 
-</p>
-
----
-
-## 🚀 Portafolio
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/🌐%20Ver%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=00ffcc"/></a>
-<a href="#"><img src="https://img.shields.io/badge/📂%20Proyectos-000000?style=for-the-badge&logo=github&logoColor=00ffcc"/></a>
-<a href="#"><img src="https://img.shields.io/badge/📧%20Contacto-000000?style=for-the-badge&logo=gmail&logoColor=00ffcc"/></a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ADNC0&theme=tokyonight&hide_border=true"/>
-<br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ADNC0&show_icons=true&theme=tokyonight&hide_border=true"/>
-<br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADNC0&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
