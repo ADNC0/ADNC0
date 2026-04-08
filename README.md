@@ -53,18 +53,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ADNC0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADNC0&theme=tokyonight&hide_border=true&background=000000&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc"/>
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADNC0&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffcc&text_color=ffffff"/>
-</p>
-
----
-
-## 🌐 Conecta conmigo
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ffcc"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ffcc"></a>
 </p>
 
 ---
