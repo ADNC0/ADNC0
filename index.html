@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Abraham | Full Stack</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Share Tech Mono', monospace;
+    background: linear-gradient(135deg, #0a0e27 0%, #0066ff 50%, #0a0e27 100%);
+    color: #00ffcc;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+    height: 100%;
+}
+
+.perfil {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.foto {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.3);
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.foto img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 25%;
+}
+
+h1 {
+    margin-top: 0;
+    color: #00ffcc;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-shadow: 0 0 10px rgba(0,255,204,0.5);
+}
+
+.typing {
+    font-size: 18px;
+    color: #00aaff;
+    border-right: 2px solid #00aaff;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 260px;
+    animation: typing 4s steps(40) infinite alternate, blink 0.7s infinite;
+    margin-top: 5px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 260px }
+}
+
+@keyframes blink {
+    50% { border-color: transparent }
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #00ffcc, transparent);
+    margin: 30px 0;
+    box-shadow: 0 0 10px rgba(0,255,204,0.3);
+}
+
+.section {
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.card {
+    background: rgba(0,255,204,0.1);
+    padding: 15px;
+    border: 1px solid #00ffcc;
+    border-radius: 8px;
+    margin: 5px;
+    width: 100%;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,255,204,0.2);
+    color: #00ffcc;
+    position: relative;
+    overflow: hidden;
+}
+
+.card:hover {
+    background: rgba(0,255,204,0.2);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0,255,204,0.4);
+    border-color: #00ff88;
+}
+
+.stats img {
+    width: 350px;
+    margin: 10px;
+}
+
+@media (max-width: 600px) {
+    .cards {
+        flex-direction: column;
+        align-items: center;
+    }
+    .stats img {
+        width: 90%;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="perfil">
+    <h1>Hola me llamo,Abraham</h1>
+    <br>
+    <div class="typing">Desarrollador Full Stack</div>
+</div>
+<hr>
+<img src="images/carn.png" alt="" style="width: 100%; max-width: 600px; height: 300px; object-fit: cover; border: 3px solid #00ffcc; border-radius: 12px; box-shadow: 0 0 30px rgba(0,255,204,0.4);">
+<hr>
+
+<div class="section">
+<h2>Sobre mí</h2>
+<p style="text-align: right; width: 100%; display: block;">
+Durante mi trayectoria universitaria y profesional, he desarrollado diversas aplicaciones orientadas a facilitar la comprensión de distintos procesos. He aplicado los conocimientos adquiridos de forma teórica, llevándolos a la práctica mediante soluciones funcionales y eficientes.
+</p>
+</div>
+
+<div class="section">
+<h2>Tecnologías</h2>
+<div class="cards">
+<div class="card">Lenguajes de progrmación: Python, C#, PHP, JavaScript, Dart</div>
+<div class="card">Frameworks: Django, .NET, CodeIgniter, Flutter</div>
+<div class="card">Bases de Datos SQL: SQL Server, MySQL, PostgreSQL</div>
+<div class="card">ETL y Carga Masiva de Datos</div>
+</div>
+</div>
+
+<hr>
+
+<div class="section stats">
+<h2>GitHub Analytics</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=ADNC0&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADNC0&layout=compact&theme=tokyonight">
+</div>
+
+</div>
+
+</body>
+</html>
