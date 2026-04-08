@@ -51,13 +51,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ADNC0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ADNC0&show_icons=true&theme=tokyonight&hide_border=true"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADNC0&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffcc&text_color=ffffff"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADNC0&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-🔥 <b>Si lo puedes soñar, lo puedes crear</b> 🚀
+ <b>Si quieres ganar. Empieza por no perder</b> 
 </p>
